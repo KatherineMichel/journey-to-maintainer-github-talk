@@ -81,7 +81,7 @@ Slide Deck
 - [Professional Level Configs](#professional-level-configs)
 - [Update the Test Matrix](#update-the-test-matrix)
 - [pyenv and tox](#pyenv-and-tox)
-- [Python/Django Release Notes](#python-django-release-notes)
+- [Python/Django Release Notes](#pythondjango-release-notes)
 - [Update SemVer Version and Changelog](#update-semver-version-and-changelog)
 - [Tag and Publish](#tag-and-publish)
 - [Pinax Report Card](#pinax-report-card)

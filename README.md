@@ -24,7 +24,7 @@ Slide Deck
 
 ## Slides and Script Table of Contents
 
-- [Journey to Maintainer](#bringing-pinax-back-to-life)
+- [Journey to Maintainer](#journey-to-maintainer)
 - [Affiliations](#affiliations)
 - [Talk Goals](#talk-goals)
 - [Milestone: Django Was Born, 2003](#milestone-django-was-born-2003)

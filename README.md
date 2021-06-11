@@ -56,7 +56,7 @@ Slide Deck
 - [Quality of Life](#quality-of-life)
 - [Second Chances](#second-chances)
 - [Eating Dinner With Guido](#eating-dinner-with-guido)
-- [Milestone: Becoming a Python Package Maintainer, 2017](#milestone-becoming-a-python-package-maintainer)
+- [Milestone: Becoming a Python Package Maintainer, 2017](#milestone-becoming-a-python-package-maintainer-2017)
 - [I Was Hired by Eldarion to Maintain Pinax](#i-was-hired-by-eldarion-to-maintain-pinax)
 - [The “Hot Club” Formed: 2007](#the-hot-club-formed-2007)
 - [Pinax Was Born: 2008](#pinax-was-born-2008)  

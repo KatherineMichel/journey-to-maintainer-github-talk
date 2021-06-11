@@ -105,8 +105,8 @@ Slide Deck
 - [Managing Volunteer Maintainers](#managing-volunteer-maintainers)
 - [Reduce Scope](#reduce-scope)
 - [Additional Automation](#additional-automation)
-- [Is It Worth It? Yes :)](#is-it-worth-it)
-- [Is It Worth It? Yes :)](#is-it-worth-it)
+- [Is It Worth It? Yes :)](#is-it-worth-it-yes)
+- [Is It Worth It? Yes :)](#is-it-worth-it-yes)
 - [Q and A](#q-and-a)
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>

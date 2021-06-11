@@ -72,7 +72,6 @@ Slide Deck
 - [Pinax CLI](#pinax-cli)
 - [Pinax CLI](#pinax-cli)
 - [Pinax CLI](#pinax-cli)
-- [Pinax CLI](#pinax-cli)
 - [`projects.json` File](#projects-json-file) 
 - [Pinax Starter Projects](#pinax-starter-projects)
 - [Pinax Apps in Starter Projects](#pinax-apps-in-starter-projects) 

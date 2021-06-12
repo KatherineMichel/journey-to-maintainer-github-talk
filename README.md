@@ -1,4 +1,4 @@
-# Journey to Maintainer- GitHub
+# Journey to Maintainer- GitHub Talk
 
 ## Table of Contents
 
